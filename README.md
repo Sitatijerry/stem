@@ -13,8 +13,14 @@ if statements
 else' elif
 while loops
 break, continue 
+## day5
 for loops
 lists
   indexes
   strings as list or not
   nerted lists (matrixes)
+## day 6
+lists
+tuples
+sets
+def
