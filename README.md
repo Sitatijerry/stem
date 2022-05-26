@@ -24,8 +24,9 @@ lists
 tuples
 sets
 def
-## day 8
+## day 7
 functions
+## day 8
 def
 return
 dictionaries
