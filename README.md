@@ -24,3 +24,8 @@ lists
 tuples
 sets
 def
+## day 8
+functions
+def
+return
+dictionaries
