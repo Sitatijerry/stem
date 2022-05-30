@@ -36,3 +36,7 @@ try except
 #defining a class and its attributes
 #creating instances(objects)of a class
 class methods
+## day 10
+# GUI-widget
+     -buttons
+     -grid
