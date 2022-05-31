@@ -33,6 +33,12 @@ dictionaries
 try except
 ## day 9
 #OOP
+
+##day 10
+#buttons
+#GUI
+#buttonfunctions
+
 #defining a class and its attributes
 #creating instances(objects)of a class
 class methods
@@ -40,3 +46,6 @@ class methods
 # GUI-widget
      -buttons
      -grid
+##day 11
+#inherritance
+#inventories
