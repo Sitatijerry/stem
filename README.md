@@ -46,6 +46,7 @@ class methods
 # GUI-widget
      -buttons
      -grid
+#simple canvas
 ##day 11
 #inherritance
 #inventories
