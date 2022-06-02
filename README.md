@@ -50,3 +50,6 @@ class methods
 ##day 11
 #inherritance
 #inventories
+## day 12
+# text fields
+#get text
