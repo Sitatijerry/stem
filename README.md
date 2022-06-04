@@ -53,3 +53,5 @@ class methods
 ## day 12
 # text fields
 #get text
+##day 13
+#tkinter calc
